@@ -1,2 +1,2 @@
 # csci-2100
-Repo For CSCI 2100 - Data Structures in C++
+Hi! I'm Iovane Sakhelashvili, a student at SLU studying data science. This is my repo for Data Structures in C++ (I wish this course was also taught in python). I like coding, mostly  machine learning models and computer vision, basically anything with machine learning involved.
