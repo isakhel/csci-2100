@@ -1,0 +1,19 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "Run lab3",
+      "type": "cppdbg",
+      "request": "launch",
+      "program": "${workspaceFolder}/labs/lab3/main.exe",
+      "args": [],
+      "stopAtEntry": false,
+      "cwd": "${workspaceFolder}/labs/lab3",
+      "environment": [],
+      "externalConsole": true,
+      "MIMode": "gdb",
+      "miDebuggerPath": "gdb",
+      "preLaunchTask": "build lab3"
+    }
+  ]
+}
